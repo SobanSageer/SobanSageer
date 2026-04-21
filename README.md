@@ -2,11 +2,11 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════╗
-║                                      ║
-║    > Full Stack AI Engineer_         ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔═══════════════════════════════════╗
+║                                   ║
+║    > Full Stack AI Engineer_      ║
+║                                   ║
+╚═══════════════════════════════════╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-soban--sageer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soban-sageer/)
